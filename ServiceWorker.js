@@ -1,9 +1,9 @@
 const cacheName = "Neurobots-Neuroavatar Web-0.1";
 const contentToCache = [
-    "Build/Bradesco2.loader.js",
-    "Build/Bradesco2.framework.js",
-    "Build/Bradesco2.data",
-    "Build/Bradesco2.wasm",
+    "Build/Nestle - Neuroavatar Web.loader.js",
+    "Build/Nestle - Neuroavatar Web.framework.js",
+    "Build/Nestle - Neuroavatar Web.data",
+    "Build/Nestle - Neuroavatar Web.wasm",
     "TemplateData/style.css"
 
 ];
